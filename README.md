@@ -1,0 +1,2 @@
+# SouthSea-s-inventory
+Mycode
