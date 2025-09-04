@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <Forms>
+    <CreateItemMainWindow Class="TCEForm" Encoding="Ascii85">wOCzK8(w$I=9%K80xeY9T6Ofw365f[*@WUXAW(fpf,W+A-smPdkezOJncWjUbjE;BJAjlHhZdy,rBYg2E0k7LC=Ea=_3fw#uAFhk3-3H9XS2Im5*#MuD)7R+InVpN(-/SD/Z;NFg{cu9+;IrsjI1P^3n,kxpdErl2QNtH1SuvDR0Kf{WW0;K4G6t*$b?JnEcY;:x):NaVldA9T}XZ;g,f0F$P!d!kv)/{?O]q;*YBsjh5)4Q#st[b4@{nHN)=CNQCU*{yb(QZq}ddcl(p+h9fBkzgf9VQd:-L2B4D_Q8WN.l*C%x?P;=0JM.rT1AHT0nk9Y(303;LFsv;/8QwvaqUMVajKv!2gGex.OrBGZRU_%X@/LB6VJY5,K1kVCR#b;c@H?=(8Z{d{]9(AJ^UK9en5^)-,Wx1if1}v36m;IgkAm),N3-ggqYz_FTgux)myZl?Th#_-.kfuDS83a-/jMG#to@BH*cm_OekVRQx+^Iko@3n5oQ-l_HkJ;DYF@Z{{$O3XAA_os^7P_0IA0Te}fG(){jjC**LKz[dQOI%GHlm-a#G4o@PIz#qU5bH0nySWawJ]*0/Pg;6u1PQ4NssRmU$nQl;,Jp1*?{XPNdA}MHK^MJQ8it;g51/B#Doqx1}^XSxyLqgTsPojosu{?IYex(iK.D%,{9!xNI@k]7NssisRIbtDFx!Z*C/@#f^xB7iF]@=9;imF5/+!zVtqgc2#/di.qfwMO7n1fYEEBYOl=f0HilChKUzp;7J)9l:y}=F5{3%5+;5R_L!g3u1c*_F-9Sx;(;[1MSxD6eq)=5xolbE2*@z(j,?ISwY]fQelH@4J4h7/{tb+*Nq5YW,BjD,GZP7SAl3Bl)-Onz=]n*Z3qlJQn]6HJ]W}gG=bMM#Q=CRd_4WB-^lNo;9.I7eku4k4/eEQb!M+rS$dT!j8nVvWL6F:$Wn=8O0fzf{wn.C!T,Z,9s@i$inv@%4_@!-]V+S0Tc3kyE_$s,DkrIg4RN@}qU@TzSkL8$QAeAtwblM:LN4]!Dt%1G76$wUNYqij4[:T$tLWMV3!-ig-_g$:Dk6/=dGsNY,h+Oq274:2.{KWK_L[eQVoQ@?lze1h*/LC[Dx0xDq=+MF9Y%PA92YUfI7dr4dU,3neT?O]eC^[YlOmh_f)!n3v5#=i5T24tH}@bV3fvjURrsIQFcPnPoovX($XC-u(F^HMUC:yueu(ZMue/v7nt?Th(y11;M7jxMD;x1qjMmik.zQ,-EUk[sOYaQ=tR573@.K%2;cH#0ny,PtJaxtnKxZT[A]W3ROJEU{)B/$qSucf3hS$Vy*IWaGe3myW.8=MvFyD2YFPc}V:M$_IwG^^bc.e!6Jfv8?sx5kZVA!VI?RD=L=RaK]T]f@?G8BGM}(wb@=]i6}O2I]:O)Eqe{5%PtnRjW7OBxfch}@9bcjSuf)0M=%{kqQ/N/551TdFw8F$+9OEsTmrG4IQ$3/4WP2yB/;^2BSb^L@fycTwa2N:3H^NQe(b=.Wp1TaYQ0ymtT[.1uJW;+bdva@e0z:=.YxSrJrIc7,3Z;n!-XW.kM%=(#*xG?m1V:{f.JRKRLFprJ7F9s.W*m3%D3Wl(Wf+0D}?0+:BLs#vu}#7FQD4ig6y;+zh4k=2?FL[Uh:8E/h25zC0^%/R=X]s7mkIlx^OlSew0z[.*v]33Hc/R((DJ9s7nF.0vNzk1k?Gt8Ty4QTlIDtpu#Te/xm-lqIam,%quGER#EK0xP]E$NZPh#nimSAuw]KrhEaRJQ6LGEtaEK4JvOzscrmj*md!mD=I).Y8J{aEV5i=-2K^yR=a6[bp?(UZyj9Q?#f};zVz1T:sN{]8zgV-[aHPs;RN3!IZ*SZZwYiqLg7xI}qUVY;wwmi^W51=$:FGW=UG![tt/LMKk4Ud%MR$ax:*A-1g_E{j.w};)).4O0%%-,(mAn_iS.Ve4]-)(FTs*9pdpX4n85Ug%$%LfVxI9gw(=[a-8:2*GA3)oAF.C:j(t7BURf.-zf!F;)Hx@C0%3DNU?W!H7T{aCxDncwMNI;.ew,S(o^!KtDY[E7vw;([]Z8v4D2NPoa$J4KNgFab-C/6Zl</CreateItemMainWindow>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"写入主代码"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+alloc(BlankMemory,0x400,gamedll_ph_x64_rwdi.dll)
+registersymbol(BlankMemory)
+registersymbol(ReplaceVirtualTableFunction)
+registersymbol(ItemAmmount)
+registersymbol(ItemNameList)
+registersymbol(ItemList)
+registersymbol(IsGetItemNameList)
+registersymbol(IsNeedCreateItem)
+registersymbol(IsNeedCreateItemAffix)
+registersymbol(ItemCreateSeed)
+registersymbol(ItemAddress)
+registersymbol(ItemDurability)
+registersymbol(ItemCreateAmount)
+registersymbol(ItemNameList)
+registersymbol(ItemCreateType)
+registersymbol(ItemAffixTextAddressSave)
+BlankMemory:
+
+ReplaceVirtualTableFunction:
+push rbx
+sub rsp,50
+lea rcx,[gamedll_ph_x64_rwdi.dll+2355BA0]
+mov rdx,8
+mov r8,40
+lea r9,[rsp+40]
+call VirtualProtect
+test rax,rax
+je ReplaceVirtualTableFunction_Exit
+lea rax,[gamedll_ph_x64_rwdi.dll+2355BA0]
+cmp [IsReplaceVirtualTableFunction],1
+je ReplaceVirtualTableFunction_Recover
+mov rbx,[rax]
+mov [OldFunctionAddress],rbx
+lea rbx,[ProxyFunction]
+mov [rax],rbx
+mov eax,1
+mov [IsReplaceVirtualTableFunction],eax
+jmp ReplaceVirtualTableFunction_Exit
+ReplaceVirtualTableFunction_Recover:
+mov rbx,[OldFunctionAddress]
+mov [rax],rbx
+xor eax,eax
+mov [IsReplaceVirtualTableFunction],eax
+mov rax,[ItemNameList]
+xor rax,rax
+je ReplaceVirtualTableFunction_Exit
+mov rcx,rax
+call free
+ReplaceVirtualTableFunction_Exit:
+add rsp,50
+pop rbx
+xor rax,rax
+ret
+
+
+//-------------------------------------------------
+
+
+GetItemListAddressAndAmount:
+push rbx
+mov rbx,rcx
+mov rax,[gamedll_ph_x64_rwdi.dll+3625658]
+mov rax,[rax+F68]
+mov rax,[rax+38]
+test rax,rax
+je GetItemListAddressAndAmount_Exit_A
+GetItemListAddressAndAmount_GetA:
+cmp [rax-18],FFFFFFFE
+jnl GetItemListAddressAndAmount_GetB
+mov rax,[rax+10]
+jmp GetItemListAddressAndAmount_GetC
+GetItemListAddressAndAmount_GetB:
+mov rcx,rax
+mov rax,[rax]
+GetItemListAddressAndAmount_GetC:
+test rax,rax
+jne GetItemListAddressAndAmount_GetA
+test rcx,rcx
+je GetItemListAddressAndAmount_Exit_A
+mov eax,[rcx-8]
+mov [rbx],eax
+mov rcx,[rcx-10]
+mov rax,0000FFFFFFFFFFFF
+and rcx,rax
+mov [rbx+8],rcx
+mov eax,1
+GetItemListAddressAndAmount_Exit:
+pop rbx
+ret
+GetItemListAddressAndAmount_Exit_A:
+xor eax,eax
+jmp GetItemListAddressAndAmount_Exit
+
+//-------------------------------------------
+
+
+GetItemInfo:
+push rbx
+push rsi
+push rdi
+push r12
+sub rsp,88
+xor rbx,rbx
+xor rsi,rsi
+xor rdi,rdi
+mov r12,rcx
+lea rcx,[rsp+40]
+call GetItemListAddressAndAmount
+test eax,eax
+je GetItemInfo_Exit
+xor rax,rax
+mov eax,[rsp+40]
+test eax,eax
+je GetItemInfo_Exit
+imul rcx,rax,408
+call malloc
+test rax,rax
+je GetItemInfo_Exit
+mov [rsp+50],rax
+mov ebx,[rsp+40]
+mov rsi,[rsp+48]
+lea rbx,[rsi+rbx*8]
+mov rcx,408
+call malloc
+test rax,rax
+je GetItemInfo_Exit
+mov [rsp+60],rax
+GetItemInfo_LoopGetInfo:
+cmp rsi,rbx
+jae GetItemInfo_EndLoop
+mov rcx,[rsi]
+mov rcx,[rcx+10]
+test rcx,rcx
+je GetItemInfo_NoLocalLanguageText
+mov rcx,[rcx]
+mov rax,0000FFFFFFFFFFFF
+and rcx,rax
+imul rax,rdi,408
+mov rdx,[rsp+50]
+lea rdx,[rdx+rax+8]
+mov [rsp+58],rdx
+lea rdx,[rsp+58]
+call engine_x64_rwdi.dll+FF7D50
+jmp GetItemInfo_Next
+GetItemInfo_NoLocalLanguageText:
+mov rcx,[rsp+60]
+xor rdx,rdx
+mov r8,408
+call memset
+mov rcx,[rsp+60]
+lea rcx,[rcx+8]
+mov rdx,400
+lea r8,[ItemLocalLanguageText_4]
+mov rax,[rsi]
+mov rax,[rax+8]
+mov r9,0000FFFFFFFFFFFF
+and rax,r9
+mov [rsp+20],rax
+lea r9,[ItemLocalLanguageText_1]
+lea rax,[ItemLocalLanguageText_3]
+mov [rsp+28],rax
+lea rax,[ItemLocalLanguageText_1]
+mov [rsp+30],rax
+call sprintf_s
+mov rcx,[rsp+60]
+mov [rcx],eax
+lea rcx,[rcx+8]
+imul rax,rdi,408
+mov rdx,[rsp+50]
+lea rdx,[rdx+rax+8]
+mov [rsp+58],rdx
+lea rdx,[rsp+58]
+call engine_x64_rwdi.dll+FF7D50
+GetItemInfo_Next:
+add rdi,1
+lea rsi,[rsi+8]
+jmp GetItemInfo_LoopGetInfo
+GetItemInfo_EndLoop:
+mov rcx,[rsp+60]
+call free
+mov rax,[rsp+50]
+mov [r12+8],rax
+mov eax,[rsp+40]
+mov [r12],eax
+mov rax,1
+GetItemInfo_Exit:
+add rsp,88
+pop r12
+pop rdi
+pop rsi
+pop rbx
+ret
+
+
+
+//-----------------------------------------
+
+GetAffixTextAndValue:
+push rbx
+push rsi
+push rdi
+push r12
+sub rsp,108
+mov [rsp+50],rcx
+mov [rsp+58],edx
+mov [rsp+60],r8
+mov rcx,300
+call malloc
+test rax,rax
+je GetAffixTextAndValue_Exit
+mov [rsp+68],rax
+mov rcx,rax
+xor rdx,rdx
+mov r8,300
+call memset
+mov rcx,[rsp+68]
+call gamedll_ph_x64_rwdi.dll+17DC3B0
+mov rcx,[rsp+68]
+mov rdx,[rsp+50]
+mov [rcx+38],rdx
+lea rdx,[rdx+40]
+mov r8d,[rsp+58]
+mov [rcx+40],r8d
+xor r9,r9
+mov [rsp+20],r9
+mov [rsp+28],r9
+mov [rsp+30],r9
+mov [rsp+38],r9
+call gamedll_ph_x64_rwdi.dll+18D4EB0
+mov rax,[rsp+68]
+xor rsi,rsi
+mov esi,[rax+F8]
+test esi,esi
+je GetAffixTextAndValue_Failed
+xor rcx,rcx
+imul rcx,rsi,410
+mov r12,rcx
+call malloc
+test rax,rax
+je GetAffixTextAndValue_Failed
+mov [rsp+70],rax
+mov rcx,rax
+xor rdx,rdx
+mov r8,r12
+call memset
+mov rax,[rsp+68]
+mov rbx,[rax+F0]
+mov rcx,0000FFFFFFFFFFFF
+and rbx,rcx
+test rbx,rbx
+je GetAffixTextAndValue_Failed
+xor rax,rax
+imul rax,rsi,18
+lea rdi,[rbx+rax]
+xor r12,r12
+GetAffixTextAndValue_SerachNameText_LoopGet:
+cmp rbx,rdi
+jae GetAffixTextAndValue_SerachNameText_EndLoop
+mov rcx,[rbx]
+mov rcx,[rcx+8]
+mov rcx,[rcx]
+mov rax,0000FFFFFFFFFFFF
+and rcx,rax
+xor rdx,rdx
+imul rdx,r12,410
+mov rax,[rsp+70]
+lea rdx,[rax+rdx+10]
+mov [rsp+78],rdx
+lea rdx,[rsp+78]
+call engine_x64_rwdi.dll+FF7D50
+mov rax,[rbx+10]
+movss xmm0,[rax+10]
+imul rcx,r12,410
+mov rax,[rsp+70]
+lea rax,[rax+rcx]
+movss [rax],xmm0
+GetAffixTextAndValue_SerachNameText_Next:
+add r12,1
+xor rax,rax
+imul rax,r12,18
+mov rcx,[rsp+68]
+mov rcx,[rcx+F0]
+mov rbx,0000FFFFFFFFFFFF
+and rcx,rbx
+lea rbx,[rcx+rax]
+jmp GetAffixTextAndValue_SerachNameText_LoopGet
+GetAffixTextAndValue_SerachNameText_EndLoop:
+mov rbx,[rsp+70]
+mov rax,[rsp+68]
+xor rsi,rsi
+mov esi,[rax+F8]
+imul rax,rsi,410
+lea rdi,[rbx+rax]
+mov rcx,808
+call malloc
+test rax,rax
+je GetAffixTextAndValue_Failed_FreeAll
+mov [rsp+78],rax
+mov rcx,rax
+xor rdx,rdx
+mov r8,808
+call memset
+xor r12,r12
+GetAffixTextAndValue_FormatAffixText_LoopFormat:
+cmp rbx,rdi
+jae GetAffixTextAndValue_FormatAffixText_EndLoop
+mov rax,[rsp+78]
+xor rcx,rcx
+mov ecx,[rax]
+xor rdx,rdx
+mov edx,400
+sub edx,ecx
+lea rcx,[rax+rcx*2+8]
+lea r8,[AffixValueAndText]
+movss xmm0,[rbx]
+cvtps2pd xmm0,xmm0
+movq r9,xmm0
+lea rax,[rbx+10]
+mov [rsp+20],rax
+call msvcrt.swprintf_s
+mov rcx,[rsp+78]
+xor rdx,rdx
+mov edx,[rcx]
+add edx,eax
+mov [rcx],edx
+GetAffixTextAndValue_FormatAffixText_Next:
+add r12,1
+xor rax,rax
+imul rax,r12,410
+mov rcx,[rsp+70]
+lea rbx,[rcx+rax]
+jmp GetAffixTextAndValue_FormatAffixText_LoopFormat
+GetAffixTextAndValue_FormatAffixText_EndLoop:
+mov rcx,[rsp+68]
+call gamedll_ph_x64_rwdi.dll+17EBF20
+mov rcx,[rsp+68]
+call free
+mov rcx,[rsp+70]
+call free
+mov rax,[rsp+60]
+mov rcx,[rsp+78]
+mov [rax],rcx
+mov rax,1
+GetAffixTextAndValue_Exit:
+add rsp,108
+pop r12
+pop rdi
+pop rsi
+pop rbx
+ret
+GetAffixTextAndValue_Failed:
+mov rcx,[rsp+68]
+call gamedll_ph_x64_rwdi.dll+17EBF20
+mov rcx,[rsp+68]
+call free
+mov rax,[rsp+60]
+xor rbx,rbx
+mov [rax],rbx
+xor rax,rax
+jmp GetAffixTextAndValue_Exit
+GetAffixTextAndValue_Failed_FreeAll:
+mov rcx,[rsp+68]
+call gamedll_ph_x64_rwdi.dll+17EBF20
+mov rcx,[rsp+68]
+call free
+mov rcx,[rsp+70]
+call free
+mov rax,[rsp+60]
+xor rbx,rbx
+mov [rax],rbx
+xor rax,rax
+jmp GetAffixTextAndValue_Exit
+
+
+//-----------------------------------------
+ProxyFunction:
+push rbx
+sub rsp,100
+mov rax,[OldFunctionAddress]
+call rax
+mov [rsp+50],rax
+cmp [IsGetItemList],1
+je ProxyFunction_Create
+lea rcx,[rsp+60]
+call GetItemListAddressAndAmount
+test eax,eax
+je ProxyFunction_Exit
+xor rax,rax
+mov eax,[rsp+60]
+mov [ItemAmmount],eax
+mov rax,[rsp+68]
+mov [ItemList],rax
+mov [IsGetItemList],1
+cmp [IsGetItemNameList],1
+je ProxyFunction_Create
+lea rcx,[rsp+70]
+call GetItemInfo
+test rax,rax
+je ProxyFunction_Exit
+mov rax,[rsp+78]
+mov [ItemNameList],rax
+mov [IsGetItemNameList],1
+ProxyFunction_Create:
+cmp [IsNeedCreateItem],0
+je ProxyFunction_CreateItemAffix
+mov rcx,400
+call malloc
+test rax,rax
+je ProxyFunction_CreateFailed_Alloc
+mov [rsp+80],rax
+mov rcx,rax
+xor rdx,rdx
+mov r8,400
+call memset
+mov rcx,[rsp+80]
+call gamedll_ph_x64_rwdi.dll+17DC3B0
+mov rax,[ItemAddress]
+mov rbx,[rsp+80]
+mov rdx,rax
+mov [rbx+38],rax
+mov eax,[ItemCreateSeed]
+mov [rbx+40],eax
+mov r8d,eax
+movss xmm0,[ItemDurability]
+movss [rbx+E8],xmm0
+mov eax,[ItemCreateAmount]
+mov [rbx],eax
+mov rcx,rbx
+lea rdx,[rdx+40]
+xor r9,r9
+mov [rsp+20],r9
+mov [rsp+28],r9
+mov [rsp+30],r9
+mov [rsp+38],r9
+call gamedll_ph_x64_rwdi.dll+18D4EB0
+mov rcx,[gamedll_ph_x64_rwdi.dll+034F62E0]
+lea rcx,[rcx+468]
+mov rdx,rbx
+mov r8d,[ItemCreateType]
+xor r9,r9
+mov [rsp+20],r9
+mov [rsp+28],r9
+mov [rsp+30],r9
+call gamedll_ph_x64_rwdi.dll+F045B0
+mov rcx,rbx
+call gamedll_ph_x64_rwdi.dll+17EBF20
+mov rcx,rbx
+call free
+mov [IsNeedCreateItem],0
+ProxyFunction_CreateItemAffix:
+cmp [IsNeedCreateItemAffix],0
+je ProxyFunction_Exit
+xor rax,rax
+cmp [ItemAffixTextAddressSave],rax
+jne ProxyFunction_CreateItemAffix_FreeAffixText
+ProxyFunction_CreateItemAffix_GetAffixText:
+mov rcx,[ItemAddress]
+mov edx,[ItemCreateSeed]
+lea r8,[rsp+80]
+call GetAffixTextAndValue
+test rax,rax
+je ProxyFunction_CreateItemAffix_Failed
+mov rax,[rsp+80]
+lea rax,[rax+8]
+mov [ItemAffixTextAddressSave],rax
+jmp ProxyFunction_CreateItemAffix_Exit
+ProxyFunction_CreateItemAffix_Failed:
+xor rax,rax
+mov [ItemAffixTextAddressSave],rax
+ProxyFunction_CreateItemAffix_Exit:
+mov [IsNeedCreateItemAffix],0
+ProxyFunction_Exit:
+mov rax,[rsp+50]
+add rsp,100
+pop rbx
+ret
+ProxyFunction_CreateItemAffix_FreeAffixText:
+mov rcx,[ItemAffixTextAddressSave]
+lea rcx,[rcx-8]
+call free
+jmp ProxyFunction_CreateItemAffix_GetAffixText
+ProxyFunction_CreateFailed_Alloc:
+mov [IsNeedCreateItem],0
+jmp ProxyFunction_Exit
+
+
+OldFunctionAddress:
+db 00 00 00 00 00 00 00 00
+
+IsReplaceVirtualTableFunction:
+db 00 00 00 00 00 00 00 00
+//------------------------------------
+ItemLocalLanguageText_1:
+db 26 00 00 00 00 00 00 00 //&amp;
+ItemLocalLanguageText_2:
+db 25 73 00 00 00 00 00 00 //%s
+ItemLocalLanguageText_3:
+db 5F 6E 00 00 00 00 00 00 //_n
+ItemLocalLanguageText_4:
+db 25 73 25 73 25 73 25 73 //%s%s%s%s
+db 00 00 00 00 00 00 00 00
+//-------------------------------------
+
+AffixValueAndText:
+db 2B 00 25 00 2E 00 31 00 66 00 25 00 25 00 20 00 25 00 73 00 0D 00 0A 00 //+%.1f%% %s\r\n
+db 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+//-------------------------------------
+
+OldFunctionResult:
+db 00 00 00 00 00 00 00 00 00 00
+
+
+ItemAmmount:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+ItemNameList:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+ItemList:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+
+IsGetItemNameList:
+db 00 00 00 00 00 00 00 00
+IsGetItemList:
+db 00 00 00 00 00 00 00 00
+IsNeedCreateItem:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+IsNeedCreateItemAffix:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+ItemCreateSeed:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+ItemAddress:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+ItemDurability:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+ItemCreateAmount:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+ItemCreateType:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+ItemAffixTextAddressSave:
+db 00 00 00 00 00 00 00 00
+db 00 00 00 00 00 00 00 00
+//----------------------------------------
+
+
+
+
+//----------------------------------------
+[DISABLE]
+dealloc(BlankMemory)
+unregistersymbol(BlankMemory)
+unregistersymbol(ReplaceVirtualTableFunction)
+unregistersymbol(ItemAmmount)
+unregistersymbol(ItemNameList)
+unregistersymbol(ItemList)
+unregistersymbol(IsGetItemNameList)
+unregistersymbol(IsNeedCreateItem)
+unregistersymbol(IsNeedCreateItemAffix)
+unregistersymbol(ItemCreateSeed)
+unregistersymbol(ItemAddress)
+unregistersymbol(ItemDurability)
+unregistersymbol(ItemCreateAmount)
+unregistersymbol(ItemNameList)
+unregistersymbol(ItemCreateType)
+unregistersymbol(ItemAffixTextAddressSave)
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"启动/关闭初始化代码"</Description>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+createthread(ReplaceVirtualTableFunction)
+
+ 
+ 
+[DISABLE]
+createthread(ReplaceVirtualTableFunction)
+LuaCall(IsListInit = false)
+</AssemblerScript>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>3</ID>
+              <Description>"开启/关闭刷物品菜单"</Description>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>[ENABLE]
+LuaCall(Init())
+
+ 
+ 
+[DISABLE]
+LuaCall(ShownDown())
+</AssemblerScript>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"虚表构造，使用前请将第21行处的虚函数地址补充"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+alloc(ReplaceTable,0x2800,gamedll_ph_x64_rwdi.dll)
+alloc(CopyCode,0x2048,gamedll_ph_x64_rwdi.dll)
+registersymbol(ReplaceTable)
+registersymbol(CopyCode)
+
+CopyCode:
+sub rsp,38
+
+lea rcx,[ReplaceTable]
+mov rdx,2048
+mov r8,[RealVirtualTable]
+mov r9,2048
+call memcpy_s
+
+add rsp,38
+xor rax,rax
+ret
+
+RealVirtualTable:
+dq
+ 
+
+[DISABLE]
+dealloc(ReplaceTable)
+dealloc(CopyCode)
+unregistersymbol(ReplaceTable)
+unregistersymbol(CopyCode)
+
+</AssemblerScript>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>IsListInit = false
+
+
+function SetItemCodeNameAndLocalLanguageNameToCETList()
+   local ItemList = readQword("ItemList")
+   local ItemNameList = readQword("ItemNameList")
+   local ItemAmmount = readInteger("ItemAmmount")
+   local ItemReprotList = CreateItemMainWindow.ItemShowList.Items
+   ItemReprotList.Clear()
+   for Index = 0,ItemAmmount - 1 do
+      local ItemPtr = readQword(tonumber(ItemList+Index*0x8))
+      local ItemID = tostring(readInteger(tonumber(ItemPtr+0x40)))
+      local ItemCodeName = readString(bAnd(readQword(ItemPtr+0x8),0x0000FFFFFFFFFFFF),0x400,false)
+      local ItemLocalLanguageName =readString(tonumber(ItemNameList + Index*0x408 + 0x8),0x400,true)
+      local NextItemReportList = ItemReprotList.Add()
+      NextItemReportList.Caption = ItemID
+      NextItemReportList.SubItems.text = ItemCodeName.."\n"..ItemLocalLanguageName
+   end
+end
+
+
+function CreateItemMainWindow_ItemSearchButtonClick(sender)
+   local CurrentItemIndex = CreateItemMainWindow.ItemShowList.getItemIndex()
+   local ItemSearchType = CreateItemMainWindow.ItemSearchType.ItemIndex
+   local ItemAmmount = readInteger("ItemAmmount")
+   if(ItemAmmount&lt;=0) then
+      CreateItemMainWindow.ItemSearchResult.Caption = "搜索结果：失败"
+      return
+   end
+
+   if(ItemSearchType==0) then
+      local SearchItemID = tonumber(CreateItemMainWindow.ItemSearchEditBox.Text)
+      if(SearchItemID&lt;=ItemAmmount and SearchItemID&gt;=0) then
+         CreateItemMainWindow.ItemShowList.Items[SearchItemID].Selected = true
+         CreateItemMainWindow.ItemShowList.Items[SearchItemID].MakeVisible(false)
+         CreateItemMainWindow.ItemShowList.SetFocus()
+               CreateItemMainWindow.ItemSearchResult.Caption = "搜索结果：成功"
+         return
+      end
+      CreateItemMainWindow.ItemSearchResult.Caption = "搜索结果：不存在"
+
+   elseif(ItemSearchType==1) then
+      local ItemList = readQword("ItemList")
+
+      if(CurrentItemIndex&lt;=ItemAmmount - 1) then
+         for Index = CurrentItemIndex+1,ItemAmmount - 1 do
+            local ItemPtr = readQword(tonumber(ItemList+Index*0x8))
+            local ItemCodeName = readString(bAnd(readQword(ItemPtr+0x8),0x0000FFFFFFFFFFFF),0x400,false)
+            local SearchText = CreateItemMainWindow.ItemSearchEditBox.Text
+            local FoundResult = string.find(ItemCodeName,SearchText,1,true)
+            if(FoundResult~=nil) then
+               CreateItemMainWindow.ItemShowList.Items[Index].Selected = true
+               CreateItemMainWindow.ItemShowList.Items[Index].MakeVisible(false)
+               CreateItemMainWindow.ItemShowList.SetFocus()
+               CreateItemMainWindow.ItemSearchResult.Caption = "搜索结果：成功"
+               return
+            end
+         end
+      end
+
+      CreateItemMainWindow.ItemSearchResult.Caption = "搜索结果：不存在"
+
+      if(CurrentItemIndex==0) then
+         return
+      end
+
+      for Index = 0,CurrentItemIndex do
+         local ItemPtr = readQword(tonumber(ItemList+Index*0x8))
+         local ItemCodeName = readString(bAnd(readQword(ItemPtr+0x8),0x0000FFFFFFFFFFFF),0x400,false)
+         local SearchText = CreateItemMainWindow.ItemSearchEditBox.Text
+         local FoundResult = string.find(ItemCodeName,SearchText,1,true)
+         if(FoundResult~=nil) then
+            CreateItemMainWindow.ItemShowList.Items[Index].Selected = true
+            CreateItemMainWindow.ItemShowList.Items[Index].MakeVisible(false)
+            CreateItemMainWindow.ItemShowList.SetFocus()
+            CreateItemMainWindow.ItemSearchResult.Caption = "搜索结果：成功"
+            return
+         end
+      end
+      CreateItemMainWindow.ItemSearchResult.Caption = "搜索结果：不存在"
+
+   elseif(ItemSearchType==2) then
+      local ItemNameList = readQword("ItemNameList")
+
+      if(CurrentItemIndex&lt;=ItemAmmount - 1) then
+         for Index = CurrentItemIndex+1,ItemAmmount - 1 do
+            local ItemLocalLanguageName =readString(tonumber(ItemNameList + Index*0x408 + 0x8),0x400,true)
+            local SearchText = CreateItemMainWindow.ItemSearchEditBox.Text
+            local FoundResult = string.find(ItemLocalLanguageName,SearchText,1,true)
+            if(FoundResult~=nil) then
+               CreateItemMainWindow.ItemShowList.Items[Index].Selected = true
+               CreateItemMainWindow.ItemShowList.Items[Index].MakeVisible(false)
+               CreateItemMainWindow.ItemShowList.SetFocus()
+               CreateItemMainWindow.ItemSearchResult.Caption = "搜索结果：成功"
+               return
+            end
+         end
+      end
+
+      if(CurrentItemIndex==0) then
+         return
+      end
+
+      for Index = 0,CurrentItemIndex do
+         local ItemLocalLanguageName =readString(tonumber(ItemNameList + Index*0x408 + 0x8),0x400,true)
+         local SearchText = CreateItemMainWindow.ItemSearchEditBox.Text
+         local FoundResult = string.find(ItemLocalLanguageName,SearchText,1,true)
+         if(FoundResult~=nil) then
+            CreateItemMainWindow.ItemShowList.Items[Index].Selected = true
+            CreateItemMainWindow.ItemShowList.Items[Index].MakeVisible(false)
+            CreateItemMainWindow.ItemShowList.SetFocus()
+            return
+         end
+      end
+      CreateItemMainWindow.ItemSearchResult.Caption = "搜索结果：不存在"
+   end
+
+end
+
+function Init()
+   CreateItemMainWindow.show()
+end
+
+function ShownDown()
+   CreateItemMainWindow.close()
+end
+
+function CreateItemMainWindow_FormShow(sender)
+   if(IsListInit==false) then
+      CreateItemMainWindow.WeaponCreateChooseCheckBox.State = cbChecked
+      CreateItemMainWindow.ItemAffixCreatePreviewMemo.Lines.clear()
+      SetItemCodeNameAndLocalLanguageNameToCETList()
+      CreateItemMainWindow.ItemSearchType.ItemIndex = 0
+      IsListInit = true
+   end
+end
+
+function GetSeed()
+
+   if(CreateItemMainWindow.WeaponCreateChooseCheckBox.State==cbChecked) then
+
+      if(CreateItemMainWindow.ExtraAffixAmountEditBox.Text == nil) then
+         return
+      end
+
+      if(CreateItemMainWindow.WeaponAffixSeedEditBox.Text == nil) then
+         return
+      end
+
+      local Quality = CreateItemMainWindow.QualityChooseComboBox.ItemIndex * 0x4
+      local ExtraAffixAmount = tonumber(CreateItemMainWindow.ExtraAffixAmountEditBox.Text)
+      local DamageLevel = CreateItemMainWindow.DamageLevelChooseComboBox.ItemIndex
+      local WeaponAffixSeed = tonumber(CreateItemMainWindow.WeaponAffixSeedEditBox.Text)
+
+      if(WeaponAffixSeed &gt; 0x0000FFFF) then
+         WeaponAffixSeed = 0x0000FFFF
+      end
+
+      if(ExtraAffixAmount &gt; 0xFF) then
+         ExtraAffixAmount = 0xFF
+      end
+
+      local TotalQualityLevel = Quality + DamageLevel
+      TotalQualityLevel = bAnd(TotalQualityLevel,0x000000FF)
+      TotalQualityLevel = bShl(TotalQualityLevel,0x8)
+      ExtraAffixAmount = bAnd(ExtraAffixAmount,0x000000FF)
+      ExtraAffixAmount = bShl(ExtraAffixAmount,0x0)
+      WeaponAffixSeed = bAnd(WeaponAffixSeed,0x0000FFFF)
+      WeaponAffixSeed = bShl(WeaponAffixSeed,0x10)
+      local TotalSeed = WeaponAffixSeed + ExtraAffixAmount + TotalQualityLevel
+      return TotalSeed
+
+
+   elseif(CreateItemMainWindow.ArmorItemCreateChooseCheckBox.State==cbChecked) then
+      if(CreateItemMainWindow.ExtraAffixAmountEditBox.Text == nil) then
+         return
+      end
+
+      if(CreateItemMainWindow.ArmorAffixSeedEditBox.Text == nil) then
+         return
+      end
+
+      local ExtraAffixAmount = tonumber(CreateItemMainWindow.ExtraAffixAmountEditBox.Text)
+      local WeaponAffixSeed = tonumber(CreateItemMainWindow.ArmorAffixSeedEditBox.Text)
+
+      if(WeaponAffixSeed &gt; 0x00FFFFFF) then
+         WeaponAffixSeed = 0x00FFFFFF
+      end
+
+      if(ExtraAffixAmount &gt; 0xFF) then
+         ExtraAffixAmount = 0xFF
+      end
+
+      ExtraAffixAmount = bAnd(ExtraAffixAmount,0x000000FF)
+      ExtraAffixAmount = bShl(ExtraAffixAmount,0x8)
+      local ArmorAffixSeed1 = bAnd(WeaponAffixSeed,0x00FFFF00)
+      ArmorAffixSeed1 = bShl(ArmorAffixSeed1,0x8)
+      local ArmorAffixSeed2 = bAnd(WeaponAffixSeed,0x000000FF)
+      ArmorAffixSeed2 = bShl(ArmorAffixSeed2,0x0)
+      local TotalSeed = ArmorAffixSeed1 + ExtraAffixAmount + ArmorAffixSeed2
+      return TotalSeed
+   elseif(CreateItemMainWindow.OtherThingsCreateChooseCheckBox.State==cbChecked) then
+      local TotalSeed = 0x00000000
+      return TotalSeed
+   end
+
+
+end
+
+
+
+
+
+function CreateItemMainWindow_ItemShowListSelectItem(sender, listitem, selected)
+   if(selected==false) then
+      return
+   end
+end
+
+
+function CreateItemMainWindow_ItemSearchTypeChange(sender)
+   if(CreateItemMainWindow.ItemSearchType.ItemIndex==0) then
+      CreateItemMainWindow.ItemSearchEditBox.Text = ""
+      CreateItemMainWindow.ItemSearchEditBox.NumbersOnly = true
+   else
+      CreateItemMainWindow.ItemSearchEditBox.NumbersOnly = false
+   end
+end
+
+
+
+
+
+
+function CreateItemMainWindow_ArmorItemCreateChooseCheckBoxChange(sender)
+   if(CreateItemMainWindow.ArmorItemCreateChooseCheckBox.State==cbChecked) then
+      CreateItemMainWindow.WeaponCreateChooseCheckBox.State = cbUnchecked
+      CreateItemMainWindow.OtherThingsCreateChooseCheckBox.State = cbUnchecked
+      CreateItemMainWindow.DamageLevelChooseComboBox.Enabled=false
+      CreateItemMainWindow.ExtraAffixAmountEditBox.Enabled=true
+      CreateItemMainWindow.QualityChooseComboBox.Enabled=false
+      CreateItemMainWindow.ArmorAffixSeedEditBox.Enabled=true
+      CreateItemMainWindow.WeaponAffixSeedEditBox.Enabled=false
+      CreateItemMainWindow.DurabilityEditBox.Enabled=true
+   end
+
+      if(CreateItemMainWindow.WeaponCreateChooseCheckBox.State==cbUnchecked
+   and CreateItemMainWindow.ArmorItemCreateChooseCheckBox.State==cbUnchecked
+   and CreateItemMainWindow.OtherThingsCreateChooseCheckBox.State==cbUnchecked) then
+      CreateItemMainWindow.ArmorItemCreateChooseCheckBox.State=cbChecked
+   end
+
+end
+
+function CreateItemMainWindow_WeaponCreateChooseCheckBoxChange(sender)
+   if(CreateItemMainWindow.WeaponCreateChooseCheckBox.State==cbChecked) then
+      CreateItemMainWindow.ArmorItemCreateChooseCheckBox.State = cbUnchecked
+      CreateItemMainWindow.OtherThingsCreateChooseCheckBox.State = cbUnchecked
+      CreateItemMainWindow.DamageLevelChooseComboBox.Enabled=true
+      CreateItemMainWindow.ExtraAffixAmountEditBox.Enabled=true
+      CreateItemMainWindow.QualityChooseComboBox.Enabled=true
+      CreateItemMainWindow.ArmorAffixSeedEditBox.Enabled=false
+      CreateItemMainWindow.WeaponAffixSeedEditBox.Enabled=true
+      CreateItemMainWindow.DurabilityEditBox.Enabled=true
+   end
+
+   if(CreateItemMainWindow.WeaponCreateChooseCheckBox.State==cbUnchecked
+   and CreateItemMainWindow.ArmorItemCreateChooseCheckBox.State==cbUnchecked
+   and CreateItemMainWindow.OtherThingsCreateChooseCheckBox.State==cbUnchecked) then
+      CreateItemMainWindow.WeaponCreateChooseCheckBox.State=cbChecked
+   end
+
+end
+
+function CreateItemMainWindow_OtherThingsCreateChooseCheckBoxChange(sender)
+   if(CreateItemMainWindow.OtherThingsCreateChooseCheckBox.State==cbChecked) then
+      CreateItemMainWindow.ArmorItemCreateChooseCheckBox.State = cbUnchecked
+      CreateItemMainWindow.WeaponCreateChooseCheckBox.State = cbUnchecked
+      CreateItemMainWindow.DamageLevelChooseComboBox.Enabled=false
+      CreateItemMainWindow.ExtraAffixAmountEditBox.Enabled=false
+      CreateItemMainWindow.QualityChooseComboBox.Enabled=false
+      CreateItemMainWindow.ArmorAffixSeedEditBox.Enabled=false
+      CreateItemMainWindow.WeaponAffixSeedEditBox.Enabled=false
+      CreateItemMainWindow.DurabilityEditBox.Enabled=false
+   end
+
+   if(CreateItemMainWindow.WeaponCreateChooseCheckBox.State==cbUnchecked
+   and CreateItemMainWindow.ArmorItemCreateChooseCheckBox.State==cbUnchecked
+   and CreateItemMainWindow.OtherThingsCreateChooseCheckBox.State==cbUnchecked) then
+      CreateItemMainWindow.OtherThingsCreateChooseCheckBox.State=cbChecked
+   end
+
+
+end
+
+function GetAndSetAffixText()
+   local AffixTextAddress = readQword("ItemAffixTextAddressSave")
+   local AffixText = readString(AffixTextAddress,0x400,true)
+   CreateItemMainWindow.ItemAffixCreatePreviewMemo.Lines.clear()
+   if(AffixText=="") then
+      CreateItemMainWindow.ItemAffixCreatePreviewMemo.Lines.add("无词条")
+      return
+   end
+   CreateItemMainWindow.ItemAffixCreatePreviewMemo.Lines.add(AffixText)
+end
+
+function WriteItemCreateParameter()
+
+   local TotalSeed = GetSeed()
+   local ItemSelectedIndex = CreateItemMainWindow.ItemShowList.ItemIndex
+   local ItemList = readQword("ItemList")
+   local ItemAddress = readQword(tonumber(ItemList + ItemSelectedIndex*0x8))
+   local ItemDurability = tonumber(CreateItemMainWindow.DurabilityEditBox.Text)
+   local ItemCreateAmount = tonumber(CreateItemMainWindow.CreateAmountEditBox.Text)
+   local ItemCreateTypeChoose = CreateItemMainWindow.CreateTypeChooseComboBox.ItemIndex
+   local ItemCreateType = 0x0
+
+   if(ItemCreateTypeChoose==0) then
+      ItemCreateType = 0x0
+   elseif(ItemCreateTypeChoose==1) then
+      ItemCreateType = 0x2
+   elseif(ItemCreateTypeChoose==2) then
+      ItemCreateType = 0xB
+   elseif(ItemCreateTypeChoose==3) then
+      ItemCreateType = 0xC
+   elseif(ItemCreateTypeChoose==4) then
+      ItemCreateType = 0xE
+   end
+
+   writeQword("ItemAddress",ItemAddress)
+   writeInteger("ItemCreateAmount",ItemCreateAmount)
+   writeInteger("ItemCreateType",ItemCreateType)
+   writeFloat("ItemDurability",ItemDurability)
+   writeInteger("ItemCreateSeed",TotalSeed)
+
+end
+
+function CreateItemMainWindow_ItemCreateButtonClick(sender)
+
+   WriteItemCreateParameter()
+   writeInteger("IsNeedCreateItem",0x00000001)
+
+
+end
+
+function CreateItemMainWindow_CreateAffixPreviewButtonClick(sender)
+   local TotalSeed = GetSeed()
+   local ItemSelectedIndex = CreateItemMainWindow.ItemShowList.ItemIndex
+   local ItemList = readQword("ItemList")
+   local ItemAddress = readQword(tonumber(ItemList + ItemSelectedIndex*0x8))
+   writeQword("ItemAddress",ItemAddress)
+   writeInteger("ItemCreateSeed",TotalSeed)
+   writeInteger("IsNeedCreateItemAffix",0x00000001)
+   sleep(50)
+   GetAndSetAffixText()
+
+end
+
+</LuaScript>
+</CheatTable>
